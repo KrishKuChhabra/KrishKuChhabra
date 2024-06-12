@@ -37,3 +37,4 @@ As a frontend developer, I possess a diverse skill set that enables me to create
    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a> 
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishKuChhabra&" alt="KrishKuChhabra" /></p>
